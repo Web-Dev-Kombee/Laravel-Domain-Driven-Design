@@ -203,7 +203,6 @@ A **Laravel 12** demo project to manage appointments between patients and doctor
 
 ```bash
 git clone https://github.com/Web-Dev-Kombee/Laravel-Domain-Driven-Design.git
-cd bookmycare
 composer install
 cp .env.example .env
 php artisan key:generate
